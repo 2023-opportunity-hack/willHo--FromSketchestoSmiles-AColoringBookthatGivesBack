@@ -1,21 +1,27 @@
 
 # 2023_fall oHack Hackathon
 https://hack.ohack.dev
-## Team willHo
-Anirudh Prabhu
-Juan Choi
-Juha Choi
-Sadhana Cheemalamari
-Akshar Chunduri
 
-## Slack Channel
-`#`[team_willHo](https://opportunity-hack.slack.com/app_redirect?channel=team_willHo)
+## Who we are
+todo
+
+## Tools used
+retool.com
 
 ## Problem Statement
 [From Sketches to Smiles: A Coloring Book that Gives Back](https://ohack.dev/project/oWkMWbQ5IloAFC3FGfdP)
 
-## Creator
-@Juha Choi (on Slack)
+## Overview
+
+## Team willHo
+- Anirudh Prabhu https://github.com/anirudhpra5062
+- Juan Choi https://github.com/juanchoi
+- Juha Choi https://github.com/juhachoi0122
+- Sadhana Cheemalamari https://github.com/DonutsRgud
+- Akshar Chunduri https://github.com/AksharChunduri
+
+## Slack Channel
+`#`[team_willHo](https://opportunity-hack.slack.com/app_redirect?channel=team_willHo)
 
 ## Your next steps
 1. ✅ Add everyone to your GitHub repo like this: https://opportunity-hack.slack.com/archives/C1Q6YHXQU/p1605657678139600
