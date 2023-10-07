@@ -23,7 +23,7 @@ retool.com
 ## Slack Channel
 `#`[team_willHo](https://opportunity-hack.slack.com/app_redirect?channel=team_willHo)
 
-## Your next steps
+## Your next steps (delete after)
 1. ✅ Add everyone to your GitHub repo like this: https://opportunity-hack.slack.com/archives/C1Q6YHXQU/p1605657678139600
 2. ✅ Create your DevPost project like this https://youtu.be/vCa7QFFthfU?si=bzMQ91d8j3ZkOD03
 3. ✅ ASU Students use https://opportunity-hack-2023-asu.devpost.com/
@@ -31,7 +31,7 @@ retool.com
 5. ✅ Your DevPost final submission demo video should be 3 minutes or less
 6. ✅ Review the judging criteria on DevPost
 
-# What should your final Readme look like?
+# What should your final Readme look like? (delete after)
 Examples of stellar readmes:
 - ✨ [2019 Team 3](https://github.com/2019-Arizona-Opportunity-Hack/Team-3)
 - ✨ [2019 Team 6](https://github.com/2019-Arizona-Opportunity-Hack/Team-6)
