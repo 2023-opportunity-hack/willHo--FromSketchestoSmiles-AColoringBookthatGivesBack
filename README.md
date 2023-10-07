@@ -1,8 +1,12 @@
 
-# 2023_fall Hackathon
+# 2023_fall oHack Hackathon
 https://hack.ohack.dev
-## Team
-willHo
+## Team willHo
+Anirudh Prabhu
+Juan Choi
+Juha Choi
+Sadhana Cheemalamari
+Akshar Chunduri
 
 ## Slack Channel
 `#`[team_willHo](https://opportunity-hack.slack.com/app_redirect?channel=team_willHo)
