@@ -3,7 +3,10 @@
 https://hack.ohack.dev
 
 ## Who we are
-todo
+- first-year college students based in frisco, Tx
+- friends from high school FIRST robotics team
+- beginners in hackathon
+- team namesake: combined names of members' pets
 
 ## Tools used
 https://react.dev/
@@ -12,6 +15,7 @@ https://react.dev/
 [From Sketches to Smiles: A Coloring Book that Gives Back](https://ohack.dev/project/oWkMWbQ5IloAFC3FGfdP)
 
 ## Overview
+- we were not able to accomplish the goal of integrating AI image generators within the time span, but we are planning to keep updating this repo even after the competition to learn more about helping nonprofits and practice frontend development. :)
 
 ## Team willHo
 - Anirudh Prabhu https://github.com/anirudhpra5062
